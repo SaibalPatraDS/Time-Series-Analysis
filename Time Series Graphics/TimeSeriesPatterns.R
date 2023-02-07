@@ -1,0 +1,1 @@
+## ---------- Time Series Patters in R ------------- ##
