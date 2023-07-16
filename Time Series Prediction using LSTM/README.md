@@ -1,4 +1,4 @@
-# Data and Time Series Analysis using LSTM
+# Time Series Analysis using LSTM
 
 This repository contains the data and code for performing time series analysis using Long Short-Term Memory (LSTM) models. The dataset used in this analysis contains information related to bike shares, along with various weather-related features.
 
