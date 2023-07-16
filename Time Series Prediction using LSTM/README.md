@@ -41,7 +41,7 @@ To use this repository, follow these steps:
 
 ## Examples
 
-To demonstrate how to perform time series analysis using LSTM on this dataset, the repository provides example code files. You can find these files in the (`examples`)[https://github.com/SaibalPatraDS/Time-Series-Analysis/blob/main/Time%20Series%20Prediction%20using%20LSTM/time_series_analsis_using_LSTM.ipynb] directory.
+To demonstrate how to perform time series analysis using LSTM on this dataset, the repository provides example code files. You can find these files in the [`examples`](https://github.com/SaibalPatraDS/Time-Series-Analysis/blob/main/Time%20Series%20Prediction%20using%20LSTM/time_series_analsis_using_LSTM.ipynb) directory.
 
 ## Contributing
 
